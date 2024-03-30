@@ -22,12 +22,12 @@ Git
 
 Installation instruction
 ```
-Git clone 
+Git clone git@github.com:jasonokingo/Week-2-Code-Challenge.git
 
 ```
 
 Live Link
-[Git]()
+[Git](https://github.com/jasonokingo/Week-2-Code-Challenge)
 
 Technologies used
 Javascript
